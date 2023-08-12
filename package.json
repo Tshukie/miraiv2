@@ -1,8 +1,8 @@
 {
-    "name": "MiraiBypassD-Jukie",
+    "name": "Arjhil",
     "version": "1.2.14",
-    "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
-    "main": "mirai.js",
+    "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord also don't forget to credits Arjhil.",
+    "main": "ArjhilProject.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
